@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmC-Cmm
+- 👋 Hi, I’m @mengting chen
 - 👀 I’m interested in Python and Java code for GEE and Lidar.
 - 🌱 I’m currently learning Mechine learning, training the sateline image (raster dataset).
 - 💞️ I’m looking to collaborate on scientists and researchers who use NISAR data to monitor the land deformation.
