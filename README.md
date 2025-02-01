@@ -1,7 +1,7 @@
 
-# Mengting Chen (陈梦婷) Personal Homepage
+# Hi there. I am Mengting Chen
                                               
-Hi there. I am Mengting Chen, a Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
+A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
 
 - TypeScript: Python/R/Matlab/Java
 - Find me @ LinkedLin: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
