@@ -21,6 +21,10 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 ## Current Repositories
 1. Rainfall Erosivity Estimation (private)
 2. Rainfall Disaggregation (private)
+   
+## Acedemic Events Participation
+1. [Transportation Research Board Annual Meeting (2025)](https://trb-annual-meeting.nationalacademies.org/)
+   
 
 ## Interests
 - Stay with Amy (艾米) and Simba (心巴)
