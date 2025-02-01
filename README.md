@@ -24,6 +24,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 
 ## Interests
 - Stay with Amy (艾米) and Simba (心巴)
+  ![Amy]()
 - Cooking
 - Photography
 
