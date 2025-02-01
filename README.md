@@ -24,12 +24,10 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 
 ## Interests
 - Stay with Amy (艾米) and Simba (心巴)
-<img src="https://raw.githubusercontent.com/mmC-Cmm/mmC-Cmm/main/Photo%20Jul%2026%202022%2C%203%2026%2018%20PM.jpg" alt="Amy" style="width:20%;">
-<img src="https://raw.githubusercontent.com/mmC-Cmm/mmC-Cmm/main/Photo%20Jul%2026%202022%2C%203%2026%2018%20PM.jpg" alt="Simba" style="width:20%;">
-
-
-
-
+<p>
+    <img src="https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Nov%2006%202022%2C%204%2024%2054%20PM.jpg" alt="Amy" style="width:20%; display:inline-block; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/mmC-Cmm/mmC-Cmm/main/Photo%20Jul%2026%202022%2C%203%2026%2018%20PM.jpg" alt="Simba" style="width:20%; display:inline-block;">
+</p>
 
 - Cooking
 - Photography
