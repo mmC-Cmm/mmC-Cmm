@@ -1,5 +1,5 @@
 
-# Mengting Chen Personal Homepage
+# Mengting Chen (陈梦婷) Personal Homepage
                                               
 Hi there. I am Mengting Chen, a Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
 
