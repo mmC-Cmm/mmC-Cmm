@@ -29,11 +29,12 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 ## Interests
 - Stay with Amy (艾米) and Simba (心巴)
 <p>
-    <img src=https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Jul%2026%202022%2C%203%2026%2037%20PM.jpg style="width:15%; display:inline-block;">
-    <img src="https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Nov%2006%202022%2C%204%2024%2054%20PM.jpg" style="width:15%; display:inline-block; margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/mmC-Cmm/mmC-Cmm/main/Photo%20Jul%2026%202022%2C%203%2026%2018%20PM.jpg" style="width:15%; display:inline-block;">
-    <img src="Photo Apr 19 2023, 7 07 32 PM.jpg" style="width:15%; display:inline-block; margin-right:10px;">
-    <img src="https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Sep%2029%202022%2C%202%2023%2035%20PM.jpg" style="width:27%; display:inline-block; margin-right:10px;">
+    <img src="Photo Jul 26 2022, 3 26 37 PM.jpg" style="width:12%; display:inline-block;">
+    <img src="Photo Nov 06 2022, 4 24 54 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
+    <img src="Photo Jul 26 2022, 3 26 18 PM.jpg" style="width:12%; display:inline-block;">
+    <img src="Photo Apr 19 2023, 7 07 32 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
+    <img src="Photo Aug 15 2022, 7 42 45 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
+    <img src="Photo Sep 29 2022, 2 23 35 PM.jpg" style="width:21%; display:inline-block; margin-right:10px;">
     
 </p>
 
