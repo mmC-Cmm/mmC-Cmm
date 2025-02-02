@@ -32,7 +32,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
     <img src=https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Jul%2026%202022%2C%203%2026%2037%20PM.jpg style="width:15%; display:inline-block;">
     <img src="https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Nov%2006%202022%2C%204%2024%2054%20PM.jpg" style="width:15%; display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/mmC-Cmm/mmC-Cmm/main/Photo%20Jul%2026%202022%2C%203%2026%2018%20PM.jpg" style="width:15%; display:inline-block;">
-    <img src="https://www.dropbox.com/scl/fi/ct9zdygct80gwnhrnk3e9/Photo-Apr-19-2023-7-07-32-PM.jpg" style="width:15%; display:inline-block; margin-right:10px;">
+    <img src="Photo Apr 19 2023, 7 07 32 PM.jpg" style="width:15%; display:inline-block; margin-right:10px;">
     <img src="https://github.com/mmC-Cmm/mmC-Cmm/blob/main/Photo%20Sep%2029%202022%2C%202%2023%2035%20PM.jpg" style="width:27%; display:inline-block; margin-right:10px;">
     
 </p>
