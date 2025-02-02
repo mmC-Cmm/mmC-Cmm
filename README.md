@@ -4,7 +4,7 @@
 A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
 
 - TypeScript: Python/R/Matlab/Java
-- Find me @ LinkedLin: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
+- Find me @ LinkedIn: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
 
 ## Education
 - Master of Science in Civil Engineering (Field: Geotechnical Engineering) at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
