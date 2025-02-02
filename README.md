@@ -24,6 +24,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
    
 ## Acedemic Events Participation
 1. [Transportation Research Board Annual Meeting (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7285133272064389120/)
+2. [Oklahoma Transportation Summer Symposium (2024)](https://www.sptc.org/ok-transportation-summer-symposium)
    
 
 ## Interests
