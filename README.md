@@ -9,7 +9,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 ## Education
 - Master of Science in Civil Engineering (Field: Geotechnical Engineering) at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
   
-  **Thesis:*Shear strength of slip zone soil and Stability Assessment of Outang Hillslope in Fengjie, Chongping Province, China****
+  **Thesis:*Shear strength of slip zone soil and Stability Assessment of Outang Hillslope in Fengjie, Chongping Province, China***
 
 - Bachelor of Science in Engineering Management at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
                   
