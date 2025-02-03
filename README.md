@@ -12,15 +12,15 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
   **Thesis:*Shear strength of slip zone soil and Stability Assessment of Outang Hillslope in Fengjie, Chongping Province, China***
 
 - Bachelor of Science in Engineering Management at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
+
+## Current Repositories
+1. Rainfall Erosivity Estimation (private)
+2. Rainfall Disaggregation (private)
                   
 ## Research Experience
 1. 2022-2023: *Socially Sustainable Solutions for Water, Carbon, and Infrastructure Resilience in Oklahoma (S3OK)* (NSF Award No. OIA-1946093)
 2. 2021-2022: *StableSoil Chemical Additive as Stabilizer to Reduce Swelling-Shrinkage Potential of Expansive Soils* (StableSoil LLC, Waco, Texas)
 3. 2018-2019: *Investigation of Slag-Cement Effects on High Sulfate Soils in Oklahoma* (ODOT 2400-18-05)
-
-## Current Repositories
-1. Rainfall Erosivity Estimation (private)
-2. Rainfall Disaggregation (private)
 
 ## Publications/Proceedings
 1. [**Chen, M.**, Al-Dakheeli, H., Puckette, J., & Bulut, R. (2021, August). Evaluation of Mineral Formation in Sulfate Bearing Soil Stabilized with Slag Cement Using XRD.](https://link.springer.com/chapter/10.1007/978-3-030-77230-7_67) *In Advances in Transportation Geotechnics IV: Proceedings of the 4th International Conference on Transportation Geotechnics Volume 1 (pp. 875-883).* Cham: Springer International Publishing.
