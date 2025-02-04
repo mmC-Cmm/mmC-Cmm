@@ -3,6 +3,7 @@
                                               
 A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
 
+- Ph.D Research on Rainfall Erosivity Estimation in [Schussler Stormwater Lab](https://www.linkedin.com/company/schussler-stormwater-lab/posts/?feedView=all)
 - TypeScript: Python/R/Matlab/Java
 - Find me @ LinkedIn: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
 
