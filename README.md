@@ -30,9 +30,13 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 
    
 ## Acedemic Events Participation
-1. [Transportation Research Board Annual Meeting (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7285133272064389120/)
-2. [Oklahoma Transportation Summer Symposium (2024)](https://www.sptc.org/ok-transportation-summer-symposium)
-3. [International Conference on Transportation and Development (2023)](https://ictd-pavements2023.eventscribe.net/fsPopup.asp?efp=Uk9RWkpLUEQxNTY4Mw&PresenterID=1526955&rnd=0.4229183&mode=presenterinfo)
+1. [ 2025 Natural Hazards Engineering Research Infrastructure (NHERI) Computational Symposium]
+   - Workshop ([HYDRO-UQ](https://simcenter.designsafe-ci.org/research-tools/hydro-uq/) and [R2D and BRAILS](https://simcenter.designsafe-ci.org/research-tools/r2dtool/))
+     
+3. [Transportation Research Board Annual Meeting (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7285133272064389120/)
+4. [Oklahoma Transportation Summer Symposium (2024)](https://www.sptc.org/ok-transportation-summer-symposium)
+5. [International Conference on Transportation and Development (2023)](https://ictd-pavements2023.eventscribe.net/fsPopup.asp?efp=Uk9RWkpLUEQxNTY4Mw&PresenterID=1526955&rnd=0.4229183&mode=presenterinfo)
+   
    
 
 ## Interests
