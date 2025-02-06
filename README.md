@@ -30,7 +30,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 
    
 ## Acedemic Events Participation
-1. [ 2025 Natural Hazards Engineering Research Infrastructure (NHERI) Computational Symposium]
+1. [2025 Natural Hazards Engineering Research Infrastructure (NHERI) Computational Symposium](https://simcenter.designsafe-ci.org/nheri-computational-symposium/2025/)
    - Workshop ([HYDRO-UQ](https://simcenter.designsafe-ci.org/research-tools/hydro-uq/) and [R2D and BRAILS](https://simcenter.designsafe-ci.org/research-tools/r2dtool/))
      
 3. [Transportation Research Board Annual Meeting (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7285133272064389120/)
