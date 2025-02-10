@@ -29,7 +29,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 3. [**Chen, M.**, Jiang, Y., Lu, Y., & Xu, C. (2016). On the Calculation Method Based on the Exponential Model for Rainfall Infiltration.](https://www.researchgate.net/profile/Mengting_Chen9/publication/312233984_On_the_calculation_method_based_on_the_exponential_model_for_rainfall_infiltration/links/63c09801eab5ff0149a9501b/On-the-calculation-method-based-on-the-exponential-model-for-rainfall-infiltration.pdf) *Electronic Journal of Geotechnical Engineering, 21, 10587-10598*.
   
 ## :speaking_head: Acedemic Events Participation
-1. [Natural Hazards Engineering Research Infrastructure (NHERI) Computational Symposium (2025)](https://simcenter.designsafe-ci.org/nheri-computational-symposium/2025/)
+1. [Natural Hazards Engineering Research Infrastructure (NHERI) Computational Symposium (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7294505336420384768/)
 2. [Transportation Research Board Annual Meeting (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7285133272064389120/)
 3. [Oklahoma Transportation Summer Symposium (2024)](https://www.sptc.org/ok-transportation-summer-symposium)
 4. [International Conference on Transportation and Development (2023)](https://ictd-pavements2023.eventscribe.net/fsPopup.asp?efp=Uk9RWkpLUEQxNTY4Mw&PresenterID=1526955&rnd=0.4229183&mode=presenterinfo)
