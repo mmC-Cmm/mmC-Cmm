@@ -15,7 +15,7 @@ A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.
 - Bachelor of Science in Engineering Management at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
 
 ## :file_folder: Current Repositories
-1. Rainfall Erosivity Estimation (private)
+1. Rainfall Erosivity Estimation (released)
 2. Rainfall Disaggregation (private)
                   
 ## :briefcase: Research Experience
