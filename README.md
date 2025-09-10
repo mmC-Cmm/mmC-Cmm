@@ -5,7 +5,7 @@
 - Find me @ LinkedIn: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
 
 ## :mortar_board: Education 
-- Doctor of Philosophy in Geotechnical Engineering at [Oklahoma State University, Stillwater, Oklahoma, USA]
+- Doctor of Philosophy in Geotechnical Engineering at Oklahoma State University, Stillwater, Oklahoma, USA
   
   **Dissertation:*RAINFALL EROSIVITY VARIABILITY BASED ON UPDATED RAINFALL RECORDS***
 
