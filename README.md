@@ -2,7 +2,7 @@
 # Hi there. I am Mengting Chen(陈梦婷) :wave:
                                               
 - TypeScript: Python/R/Matlab/Java
-- Find me @ LinkedIn: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
+- Find me @ LinkedIn: [Mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
 
 ## :mortar_board: Education 
 - Doctor of Philosophy in Geotechnical Engineering at Oklahoma State University, Stillwater, Oklahoma, USA
