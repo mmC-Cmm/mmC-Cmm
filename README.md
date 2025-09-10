@@ -1,14 +1,15 @@
 
 # Hi there. I am Mengting Chen(陈梦婷) :wave:
                                               
-A Ph.D student in [School of Civil and Environemental Engineering](https://ceat.okstate.edu/cive/) at [Oklahoma State University](https://go.okstate.edu/). 
-
-- Ph.D Research on Rainfall Erosivity Estimation in [Schussler Stormwater Lab](https://www.linkedin.com/company/schussler-stormwater-lab/posts/?feedView=all)
 - TypeScript: Python/R/Matlab/Java
 - Find me @ LinkedIn: [mengting Chen](https://www.linkedin.com/in/mengting-chen-335674185/)
 
 ## :mortar_board: Education 
-- Master of Science in Civil Engineering (Field: Geotechnical Engineering) at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
+- Doctor of Philosophy in Geotechnical Engineering at [Oklahoma State University, Stillwater, Oklahoma, USA]
+  
+  **Dissertation:*RAINFALL EROSIVITY VARIABILITY BASED ON UPDATED RAINFALL RECORDS***
+
+- Master of Science in Geotechnical Engineering at [China University of Geosciences (Wuhan), China](https://en.cug.edu.cn/)
   
   **Thesis:*Shear strength of slip zone soil and Stability Assessment of Outang Hillslope in Fengjie, Chongping Province, China***
 
