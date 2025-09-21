@@ -37,16 +37,7 @@
 3. [Oklahoma Transportation Summer Symposium (2024)](https://www.sptc.org/ok-transportation-summer-symposium)
 4. [International Conference on Transportation and Development (2023)](https://ictd-pavements2023.eventscribe.net/fsPopup.asp?efp=Uk9RWkpLUEQxNTY4Mw&PresenterID=1526955&rnd=0.4229183&mode=presenterinfo)
    
-## :relaxed: Interests
-- Stay with Amy (艾米) and Simba (心巴)
-<p>
-    <img src="Photo Jul 26 2022, 3 26 37 PM.jpg" style="width:12%; display:inline-block;">
-    <img src="Photo Nov 06 2022, 4 24 54 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
-    <img src="Photo Jul 26 2022, 3 26 18 PM.jpg" style="width:12%; display:inline-block;">
-    <img src="Photo Apr 19 2023, 7 07 32 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
-    <img src="Photo Aug 15 2022, 7 42 45 PM.jpg" style="width:12%; display:inline-block; margin-right:10px;">
-    <img src="Photo Sep 29 2022, 2 23 35 PM.jpg" style="width:21%; display:inline-block; margin-right:10px;">
-    
+
 </p>
 
 - Cooking
