@@ -38,9 +38,6 @@
 4. [International Conference on Transportation and Development (2023)](https://ictd-pavements2023.eventscribe.net/fsPopup.asp?efp=Uk9RWkpLUEQxNTY4Mw&PresenterID=1526955&rnd=0.4229183&mode=presenterinfo)
    
 
-</p>
 
-- Cooking
-- Photography
 
 
